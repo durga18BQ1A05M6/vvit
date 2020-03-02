@@ -1,0 +1,32 @@
+.card{
+    margin:1% auto;
+    border:1px solid #ddd;
+    width:25%;
+    padding:1%;
+    box-shadow:0px 8px 8px -8px  #000;
+    text-align : center;
+    background-color: palegreen;
+
+
+    }
+a{
+    text-decoration-color: plum;
+    color:pink;
+}
+
+
+.bttn{
+    margin-top: 4%;
+    display:block;
+     background: #800080;
+     color:#fff;
+     padding:1%;
+     text-align: center;
+}
+@media only screen and  (min-width:320px) and (max-width:720p)
+{
+    .card{
+     
+        width:25%;
+    }
+}

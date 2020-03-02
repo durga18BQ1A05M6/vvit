@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"y.bhavani",
+        "role":"fresher",
+        "email":"bhavani2001@gmail.com",
+        "mobile":"9014946348",
+        "education":[
+            {
+                "degree":"ssc",
+                "percentage":90
+            },
+            {
+                "degree":"inter",
+                "percentage":95
+            },
+            {
+               "degree":"btech",
+               "percentage":88
+            }
+        ]
+    }
+}
